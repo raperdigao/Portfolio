@@ -24,6 +24,15 @@ No portfólio irei desenvolver conteúdos relacionados com minhas habilidades pr
   <li>Manutenção em Desktop e Notebook</li>
   <li>Desenvolvimento Front-End</li>
   <li>Backup em Nuvem</li>
+</ul> </br>
+
+
+Metodologia de avaliação:  :</br>
+<ul>
+  <li>Seguiu as estruturas segmânticas HTML</li>
+  <li>Utilizou sintaxe vebosa</li>
+  <li>Realizou a criação do README.md no github</li>
+  <li>Conseguiu anexar os links dos projetos na página do portfólio/li>
 </ul>
 
 
