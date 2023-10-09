@@ -12,7 +12,7 @@ Neste projeto irei desenvolver o meu portfólio para salvar os projetos desenvol
 <p align="justify">
 Este projeto consiste na criação de uma landing page, com menus utilizando HTML e CSS:</br>
 <ul>
-  <li>Sobre min</li>
+  <li>Sobre mim</li>
   <li>Projetos</li>
   <li>Serviços</li>
   <li>Minhas Skills</li>
@@ -29,21 +29,33 @@ No portfólio irei desenvolver conteúdos relacionados com minhas habilidades pr
 
 Metodologia de avaliação:  :</br>
 <ul>
-  <li>Seguiu as estruturas segmânticas HTML</li>
-  <li>Utilizou sintaxe vebosa</li>
-  <li>Realizou a criação do README.md no github</li>
-  <li>Conseguiu anexar os links dos projetos na página do portfólio/li>
+  <li>Segui as estruturas segmânticas HTML</li>
+  <li>Utilizei sintaxe vebosa</li>
+  <li>Realizei a criação do README.md no github</li>
+  <li>Anexei os links dos projetos na página do portfólio</li>
 </ul>
 
 
 </p> </br>
 
 
+
+
 <p align="center">
   Colocar uma foto do projeto
         <img src="img/menuImage.gif"alt="Projeto Menu">
 </p>
-</hr>
+</br>
+
+Tipografia Utilizada:  :</br>
+<p align="center">
+  Colocar uma foto do projeto
+        <img src="img/tipografia.png"alt="Tipografia">
+</p>
+
+
+
+
 
 ## 🤝 Faça sua Contribuição 
 
@@ -67,7 +79,7 @@ Agradeço por sua visita e espero que possamos continuar a evoluir juntos!
 </p>
 </br>
 
-Desenvolvido 😜 por [Raphael Perdigão](https://www.linkedin.com/in/raphaelpagniperdigao/).
+Desenvolvido por [Raphael Perdigão](https://www.linkedin.com/in/raphaelpagniperdigao/).  😜
 
 </hr>
 
