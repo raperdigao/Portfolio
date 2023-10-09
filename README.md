@@ -73,6 +73,8 @@ Desenvolvido 😜 por [Raphael Perdigão](https://www.linkedin.com/in/raphaelpag
 
 <p align="center"><a href="https://www.sysgaya.com.br/">Visite o meu site e explore todos os meus serviços</a></p>
 
+</hr>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/MatheusHonorato/curso-front-end-marco-bruno/master/html-css-js.png" width="20%"></p>
 
