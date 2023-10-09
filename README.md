@@ -50,8 +50,10 @@ Front-End do Projeto:  :</br>
 
 Tipografia Utilizada:  :</br>
 <p align="center">
+<img src="img/tipografia.png" alt="tipografia">
  
-        <img src="img/tipografia.png"alt="Tipografia">
+
+        
 </p>
 
 
