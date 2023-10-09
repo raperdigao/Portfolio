@@ -69,4 +69,18 @@ Agradeço por sua visita e espero que possamos continuar a evoluir juntos!
 
 Desenvolvido 😜 por [Raphael Perdigão](https://www.linkedin.com/in/raphaelpagniperdigao/).
 
+</hr>
+
+<p align="center"><a href="https://www.sysgaya.com.br/">Visite o meu site e explore todos os meus serviços</a></p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MatheusHonorato/curso-front-end-marco-bruno/master/html-css-js.png" width="20%"></p>
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=square&logo=Github&logoColor=white&link=https://github.com/raperdigao)](https://github.com/raperdigao)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/raphaelpagniperdigao)](http://linkedin.com/in/raphaelpagniperdigao)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=square&logo=Gmail&logoColor=white&link=mailto:ra.perdigao@gmail.com)](mailto:ra.perdigao@gmail.com)
+
+
+
 
