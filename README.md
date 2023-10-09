@@ -41,14 +41,18 @@ Metodologia de avaliação:  :</br>
 
 Front-End do Projeto:  :</br>
 <p align="center">
+  </br>
+<img src="img/frontend.png" alt="frontend">
+
  
-        <img src="img/tipografia.png"alt="Tipografia">
+       
 </p>
 
 
 </br>
 
 Tipografia Utilizada:  :</br>
+</br>
 <p align="center">
 <img src="img/tipografia.png" alt="tipografia">
  
