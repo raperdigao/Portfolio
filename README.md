@@ -36,3 +36,28 @@ No portfólio irei desenvolver conteúdos relacionados com minhas habilidades pr
 </p>
 </hr>
 
+## 🤝 Faça sua Contribuição 
+
+<p align="justify">
+Esse repositório foi criado com o objetivo de estudar e aprimorar os conhecimentos em HTML5 e CSS3. Gostaria de convidá-los (as) a contribuir para o projeto, afinal, juntos podemos criar algo ainda melhor!
+
+Caso tenha encontrado algo que tenha sido útil para você, ficarei muito feliz em saber que o meu trabalho está sendo útil para outras pessoas. Compartilhe também com seus amigos e conhecidos que possam se interessar pelo conteúdo.
+
+Agradeço por sua visita e espero que possamos continuar a evoluir juntos!
+</p>
+</br>
+
+ ## Se possível
+<p align="justify">
+    
+- 🐛 Encontre e relate issues para que possamos corrigir eventuais bugs e melhorar a experiência do usuário. </br>
+
+- ⭐️ Se gostou do nosso trabalho, por favor, considere dar uma estrela ao projeto.</br>
+
+- 🤝 Sua contribuição é muito importante para nós e nos ajuda a continuar evoluindo. Agradecemos a sua visita e esperamos contar com a sua ajuda para tornar o projeto ainda melhor!
+</p>
+</br>
+
+Desenvolvido 😜 por [Raphael Perdigão](https://www.linkedin.com/in/raphaelpagniperdigao/).
+
+
