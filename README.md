@@ -39,17 +39,18 @@ Metodologia de avaliação:  :</br>
 </p> </br>
 
 
-
-
+Front-End do Projeto:  :</br>
 <p align="center">
-  Colocar uma foto do projeto
-        <img src="img/menuImage.gif"alt="Projeto Menu">
+ 
+        <img src="img/tipografia.png"alt="Tipografia">
 </p>
+
+
 </br>
 
 Tipografia Utilizada:  :</br>
 <p align="center">
-  Colocar uma foto do projeto
+ 
         <img src="img/tipografia.png"alt="Tipografia">
 </p>
 
