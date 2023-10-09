@@ -29,7 +29,7 @@ No portfólio irei desenvolver conteúdos relacionados com minhas habilidades pr
 
 Metodologia de avaliação:  :</br>
 <ul>
-  <li>Segui as estruturas segmânticas HTML</li>
+  <li>Segui as estruturas semânticas HTML</li>
   <li>Utilizei sintaxe vebosa</li>
   <li>Realizei a criação do README.md no github</li>
   <li>Anexei os links dos projetos na página do portfólio</li>
