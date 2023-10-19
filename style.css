@@ -1,0 +1,576 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300&display=swap');
+
+
+
+:root {
+    --fundo: #171717;
+    --menu: #F9F9F9;
+    --parafrago: #828282;
+    --downloadcv: #171717;
+    --footer: #00DF5E;
+    --bordadafoto: #FF6584;
+    --fontdmsans: font-family: 'DM Sans', sans-serif;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--fundo);
+    font-family: var(--fontdmsans);
+
+}
+
+/* Nesta etapa estilizei o container grid */
+.container-grid {
+    max-width: 1920px;
+    width: 80%;
+    margin: 0 auto;
+    height: auto;
+
+}
+
+/* Nesta etapa estilizei o cabeçalho */
+.header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 6px;
+
+
+}
+
+/* Nesta etapa estilizei o logotipo */
+.logo-flex img {
+    width: 107px;
+    height: 80px;
+
+}
+
+/* Nesta etapa estilizei o menu nav e links */
+.nav-flex {
+    display: flex;
+    flex-wrap: wrap;
+    width: 420px;
+
+}
+
+.nav-flex ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 420px;
+    list-style: none;
+
+
+
+}
+
+.nav-flex ul li {
+    padding-top: 6px;
+
+}
+
+.nav-flex ul li a {
+    text-decoration: none;
+    color: var(--menu);
+    font-family: var(--fontdmsans);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}
+
+nav ul li a.active,
+nav ul li a:hover {
+    background: #00DF5E;
+    border-radius: 4px;
+    padding: 2px;
+    transition: 0.5s;
+}
+
+/* Nesta etapa irei estilizar o container sobre mim */
+.sobremim-flex {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.sobremim {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 200px;
+    width: 340px;
+}
+
+.sobremim h1 {
+    flex-wrap: wrap;
+    color: #F9F9F9;
+    font-family: DM Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.sobremim h3 {
+    margin-top: 6px;
+    color: #828282;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: left;
+}
+
+.botao-flex {
+    margin-top: 6px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    height: 52px;
+    width: 300px;
+}
+
+.botao-flex button {
+    width: 143px;
+    height: 42px;
+    border-radius: 6px;
+}
+
+/* Nesta etapa estilizei o botão curriculo */
+.cv {
+    background-color: #00DF5E;
+
+}
+
+.cv a {
+    text-decoration: none;
+    color: #171717;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+/* Nesta etapa estilizei o botão contato */
+.contato {
+    background: #171717;
+
+}
+
+.contato a {
+    text-decoration: none;
+    color: #F9F9F9;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+/* Nesta etapa estilizei a foto sobre mim */
+.imagem-sobremim {
+    display: flex;
+    justify-content: flex-end;
+
+    height: 200px;
+    width: 250px;
+}
+
+/* Nesta etapa estilizei minha imagem */
+.imagem-sobremim img {
+    height: 195px;
+    width: 250px;
+    border-radius: 6px;
+
+}
+
+/* Nesta etapa irei estilizar minhas informações pessoais */
+
+.infpessoal-flex {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+
+}
+
+.titulo-infpessoal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.titulo-infpessoal h1 {
+    color: #F9F9F9;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.titulo-infpessoal p {
+    margin-top: 10px;
+    color: #828282;
+    text-align: justify;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+/* Nesta etapa estarei estilizando os icones de informações pessoal */
+
+.iconeinf-flex {
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+
+
+.infpessoal {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+
+
+
+}
+
+.elipse {
+    width: 62px;
+    height: 62px;
+}
+
+.icone {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14px;
+}
+
+.titulo-icone-pessoal {
+    margin-top: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.titulo-icone-pessoal h1 {
+    color: #F9F9F9;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.titulo-icone-pessoal h2 {
+    color: #828282;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+/* Nesta etapa irei criar os cards do projeto */
+
+.linkcards {
+    text-decoration: none;
+    list-style: none;
+
+
+}
+
+.projeto-flex {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+
+.titulo-projeto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo-projeto h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.card-projeto {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 25px 80px 25px;
+    width: 300px;
+    height: 240px;
+    border: 1px solid #333;
+    background: #212121;
+}
+
+.card h1 {
+    margin-top: 23px;
+    text-align: center;
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.card h2 {
+    margin-top: 6px;
+    color: #828282;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+/* Nesta etapa irei estilizar os serviços que realizo */
+
+.servicos-flex {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.titulo-servicos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo-servicos h1 {
+    color: #F9F9F9;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.cards-servicos-flex {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+
+
+
+}
+
+.cards-servicos {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 240px;
+    border: 1px solid #333;
+    background: #212121;
+
+
+}
+
+.cards-servicos img {
+    margin-top: 10px;
+    width: 56px;
+    height: 56px;
+    margin-bottom: 20px;
+
+
+}
+
+.cards-servicos h1 {
+
+
+    color: #828282;
+    height: 500px;
+    text-align: center;
+    font-family: var(--fontdmsans);
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;
+    padding: 6px;
+}
+
+/* Nesta etapa irei estilizar o container minhas skills */
+
+.skills-flex {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.titulo-skills h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9F9F9;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.cardsminhas-skills {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+
+}
+
+.cardskills {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #333;
+    background: #212121;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* Nesta etapa irei estulizar o footer */
+
+.footer-flex {
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+
+
+}
+
+
+.titulo-footer {
+    width: 100%;
+    height: 60px;
+    background: #212121;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+
+}
+
+.botao-voltar {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 1015px;
+}
+
+.btn-voltar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+}
+
+.titulo-footer h1 {
+    display: flex;
+    color: #F9F9F9;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}
+
+span {
+    color: #00DF5E;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
