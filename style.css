@@ -366,6 +366,7 @@ nav ul li a:hover {
     height: 240px;
     border: 1px solid #333;
     background: #212121;
+    margin-bottom: 20px;
 }
 
 .card h1 {
